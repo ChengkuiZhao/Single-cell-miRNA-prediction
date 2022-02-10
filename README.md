@@ -19,6 +19,6 @@ The code in the git hub is based on the analysis on breast data and TNBC data in
 3. Input the scRNA data into the code step by step
 ## Note
 * The breast simulation data and the corresponding imputation data is too large to store in the Github, you can download from.
-* Currenly the code and analysis is for the breast data and TNBC data, you could also modified the code and apply to the cancer data you are interested in.
+* Currently, the code and analysis is for the breast data and TNBC data, you could also modified the code and apply to the cancer data you are interested in.
 ## Online service
 We also offer the online service to infer the scmiRNA.
