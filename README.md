@@ -18,7 +18,7 @@ The code in the git hub is based on the analysis on breast data and TNBC data in
 2. Download the method code you want to apply in the Github
 3. Input the scRNA data into the code step by step
 ## Note
-* The breast simulation data and the corresponding imputation data is too large to store in the Github, you can download from.
-* Currently, the code and analysis is for the breast data and TNBC data, you could also modified the code and apply to the cancer data you are interested in.
+* The breast simulation data and the corresponding imputation data is too large to store in the Github, you can download from http://predscmiRNA.chengqi.site/Data/Simulation/Raw/data_simulation(10000).Rdata and http://predscmiRNA.chengqi.site/Data/Simulation/Imputation/data_imputed.RData.
+* Currently, the code and analysis is for the breast cancer data, you could also modified the code and apply to the cancer data you are interested in.
 ## Online service
-We also offer the online service to infer the scmiRNA.
+We also offer the [online service](http://predscmiRNA.chengqi.site/PredscmiRNA) to infer the scmiRNA.
