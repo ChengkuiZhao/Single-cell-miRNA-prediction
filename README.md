@@ -24,4 +24,6 @@ The code in the git hub is based on the analysis on breast data and TNBC data in
 We also offer the [online service](http://predscmiRNA.chengqi.site/PredscmiRNA.php) to infer the scmiRNA.
 ## Citation
 If you use this data, tool or code, please considering citing:
-Zhao, C., Cheng, Q., Xie, W., Xu, J., Xu, S., Wang, Y., & Feng, W. (2022). Methods for predicting single-cell miRNA in breast cancer. Genomics, 114(3), 110353. Advance online publication. https://doi.org/10.1016/j.ygeno.2022.110353
+Zhao C, Cheng Q, Xie W, Xu J, Xu S, Wang Y, Feng W. Methods for predicting single-cell miRNA in breast cancer. Genomics. 2022 May;114(3):110353. doi: 10.1016/j.ygeno.2022.110353. Epub 2022 Mar 29. PMID: 35364269.
+        
+        
