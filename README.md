@@ -26,6 +26,8 @@ We also offer the [online service](http://predscmiRNA.chengqi.site/PredscmiRNA.p
 If you use this data, tool or code, please considering citing:<br/>
 **Zhao C, Cheng Q, Xie W, Xu J, Xu S, Wang Y, Feng W.** <br/>
 Methods for predicting single-cell miRNA in breast cancer. <br/>
-**Genomics**. 2022 May;114(3):110353. doi: 10.1016/j.ygeno.2022.110353
+**Genomics**, 2022 May, 114(3):110353, 10.1016/j.ygeno.2022.110353
+        
+        
         
         
